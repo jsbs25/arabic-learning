@@ -1,0 +1,16 @@
+{
+ "codes": {
+  "K4T8-XJDU-VCSH": {
+   "days": 70,
+   "used": false,
+   "used_by": "",
+   "used_at": "",
+   "created": "2026-09-19",
+   "enabled": true,
+   "note": "",
+   "plan": "free",
+   "price": 0,
+   "quota": 0
+  }
+ }
+}

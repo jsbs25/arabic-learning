@@ -1,0 +1,64 @@
+{
+ "dev:testdev001": {
+  "pwd": "",
+  "vip": true,
+  "vip_until": "2026-10-19",
+  "created": "2026-09-19",
+  "token": "ZGV2OnRlc3RkZXYwMDF8YjQ4ZDIyYTU3YWY5ZTQ4OA==",
+  "ai_quota": {}
+ },
+ "dev:djlz2wa4ymu8po4a5": {
+  "pwd": "",
+  "vip": true,
+  "vip_until": "2026-10-19",
+  "created": "2026-09-19",
+  "token": "ZGV2OmRqbHoyd2E0eW11OHBvNGE1fDRjYzI4NzgyZWE5OGU4MjU=",
+  "ai_quota": {}
+ },
+ "dev:dmlvnm27gmu8px04h": {
+  "pwd": "",
+  "vip": false,
+  "vip_until": "",
+  "created": "2026-09-19",
+  "token": "",
+  "ai_quota": {}
+ },
+ "dev:billtest01": {
+  "pwd": "",
+  "vip": true,
+  "vip_until": "2026-12-27",
+  "created": "2026-09-19",
+  "token": "ZGV2OmJpbGx0ZXN0MDF8OWRhOTI3ZTRlNWQ4NWZiZA==",
+  "ai_quota": {},
+  "ai_quota_cny": 10.0,
+  "ai_used_cny": 0.0085,
+  "ai_calls": 1
+ },
+ "dev:diy2374pxmu8qzdaq": {
+  "pwd": "",
+  "vip": false,
+  "vip_until": "",
+  "created": "2026-09-19",
+  "token": "ZGV2OmRpeTIzNzRweG11OHF6ZGFxfGIxNzJkYmI4NzNjYTYwNmI=",
+  "ai_quota": {},
+  "ai_quota_cny": 10.0
+ },
+ "dev:freetest": {
+  "pwd": "",
+  "vip": true,
+  "vip_until": "2026-10-19",
+  "created": "2026-09-19",
+  "token": "ZGV2OmZyZWV0ZXN0fDU2OGJiNzRmNmEyOWNkMTM=",
+  "ai_quota": {},
+  "ai_quota_cny": 0.0
+ },
+ "dev:viptest": {
+  "pwd": "",
+  "vip": true,
+  "vip_until": "2026-10-19",
+  "created": "2026-09-19",
+  "token": "ZGV2OnZpcHRlc3R8YjljNWMwNmUwM2E4NDEzZQ==",
+  "ai_quota": {},
+  "ai_quota_cny": 10.0
+ }
+}

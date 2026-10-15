@@ -1,0 +1,40 @@
+# 依赖/构建产物（体积大、可重装）
+node_modules/
+app/node_modules/
+.expo/
+app/.expo/
+dist/
+app/dist/
+release/
+app/release/
+html-build/
+
+# 大模型权重（2.4G，不入库）
+models_musicgen/
+
+# 抓取缓存/素材
+YouTube_files/
+music_out/
+athan/*.m4a
+athan/*.mp3
+
+# 压缩包/快照
+*.zip
+*.apk
+*.dmg
+
+# 中国古籍正文副本（约 4.8G，不入库；只留 data/cn_books/index.json）
+data/cn_books/t/
+
+# 殆知阁源文件解压目录（约 4.8G，由 daizhige.zip 解压得到；不入库）
+harvest/cn/daizhige/
+
+# macOS
+.DS_Store
+._*
+
+# 密钥（绝不入库）
+ai_key.txt
+**/deepseek密钥/
+**/*密钥*
+.env
